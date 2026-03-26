@@ -6,7 +6,8 @@ This repository contains Java programs using Scanner to practice user input and 
 - SumUsingScanner (Addition of two integers)
 - SubtractUsingScanner (Differnce of two integers)
 - StringUsingScanner ( Taking full string input from user )
-- LongUsingScanner( Taking long value from user)
+- LongUsingScanner( Taking long value from the user)
+- FloatUsingScanner( Taking float value from the user)
 
 ## Concepts Covered:
 - Data types: int, float, double, char, String
