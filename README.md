@@ -10,6 +10,7 @@ This repository contains Java programs using Scanner to practice user input and 
 - FloatUsingScanner( Taking float value from the user)
 - DoubleUsingScanner( Taking double value from the user )
 - CharUsingScanner(Enter one char)
+- BooleanUsingScanner( Enter your value)
 
 ## Concepts Covered:
 - Data types: int, float, double, char, String
