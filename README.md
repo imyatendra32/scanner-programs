@@ -9,6 +9,7 @@ This repository contains Java programs using Scanner to practice user input and 
 - LongUsingScanner( Taking long value from the user)
 - FloatUsingScanner( Taking float value from the user)
 - DoubleUsingScanner( Taking double value from the user )
+- CharUsingScanner(Enter one char)
 
 ## Concepts Covered:
 - Data types: int, float, double, char, String
